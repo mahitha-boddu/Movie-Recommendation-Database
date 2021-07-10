@@ -1,4 +1,4 @@
-# Movie-Recommendation-Database
+Movie-Recommendation-Database
 Created the database based on the below background.
 In this database, a movie has two attributes: id, title. A possible movie record is as follows: 54796, 2 Days in Paris (2007).
 
