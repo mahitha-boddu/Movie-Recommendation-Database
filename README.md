@@ -14,4 +14,3 @@ Given a userID, you need to recommend the movies according to the movies he has 
 
 ![image](https://user-images.githubusercontent.com/86984222/125174875-1c7c4580-e17d-11eb-8665-92d21a9577a5.png)
 
-https://cdn.inst-fs-iad-prod.inscloudgate.net/5e91067d-4e5a-4e1b-b28d-84a008ece218/q10-1.png?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCIsImtpZCI6ImNkbiJ9.eyJyZXNvdXJjZSI6Ii81ZTkxMDY3ZC00ZTVhLTRlMWItYjI4ZC04NGEwMDhlY2UyMTgvcTEwLTEucG5nIiwidGVuYW50IjoiY2FudmFzIiwidXNlcl9pZCI6IjcyMzYwMDAwMDAwNDM2MzAxIiwiaWF0IjoxNjI1OTI2MTc2LCJleHAiOjE2MjYwMTI1NzZ9.tejb9334h8t9uga-FZaPZN_E5X-UZmPdkWxAyX9aKIlXWub45agliQQhSOZ70Vv-Mr-wcR8mx7f2M6iRbde9uw&download=1&content_type=image%2Fpng
